@@ -1,0 +1,1 @@
+run the game from run.py, "Run file as script"
